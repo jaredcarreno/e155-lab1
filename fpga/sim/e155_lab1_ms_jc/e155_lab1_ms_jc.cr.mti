@@ -1,0 +1,65 @@
+{C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1_jc.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1_jc.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab1_jc
+
+Top level modules:
+	lab1_jc
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/seven_segment.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/seven_segment.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/lab1_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/lab1_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab1_testbench
+
+Top level modules:
+	lab1_testbench
+
+} {} {}} {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1.tv} {0 {vlog -work work -vopt -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1.tv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+** Error: (vlog-13069) C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1.tv(4): near "00000001000000": syntax error, unexpected INTEGER NUMBER.
+
+} {3.0 4.0} {}} {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/svnseg_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/svnseg_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module svnseg_testbench
+
+Top level modules:
+	svnseg_testbench
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/lab1_jc.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/lab1_jc.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab1_jc
+
+Top level modules:
+	lab1_jc
+
+} {} {}} {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/seven.tv} {0 {vlog -work work -vopt -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/seven.tv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+** Error: (vlog-13069) C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/seven.tv(3): near "00001000000": syntax error, unexpected INTEGER NUMBER.
+
+} {3.0 4.0} {}} {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/seven_segment.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/seven_segment.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module seven_segment
+
+Top level modules:
+	seven_segment
+
+} {} {}} {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/svnseg_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Minec/Desktop/HMC/E155/lab1 - WIP/lab1_jc/source/impl_1/svnseg_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module svnseg_testbench
+
+Top level modules:
+	svnseg_testbench
+
+} {} {}} {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1_testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/jcarreno/Desktop/lab 1 - WIP/lab1_jc/source/impl_1/lab1_testbench.sv}
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module lab1_testbench
+
+Top level modules:
+	lab1_testbench
+
+} {} {}}
